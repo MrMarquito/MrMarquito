@@ -19,5 +19,4 @@ I am a Computer Science student passionate about building efficient backend infr
 ### 📬 Connect With Me
 
 *   **Portfolio**: [MrMarquito.github.io](https://mrmarquito.github.io)
-*   **GitHub**: [@MrMarquito](https://github.com/MrMarquito)
 *   **Linkedin**: [Marcos Cruz Bazan](https://linkedin.com/in/marcos-antonio-cruz-bazan)
