@@ -18,5 +18,5 @@ I am a Computer Science student passionate about building efficient backend infr
 
 ### 📬 Connect With Me
 <a href="https://linkedin.com/in/marcos-antonio-cruz-bazan">
-  <img src="assets/docs/image_6a5cd75d-8219-4705-8a53-e0d076faecb920260922_154151.jpg" alt="LinkedIn QR Code" width="450"/>
+  <img src="assets/docs/linkedin_qr.png" alt="LinkedIn QR Code" width="250"/>
 </a>
