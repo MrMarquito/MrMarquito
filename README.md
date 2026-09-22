@@ -17,6 +17,6 @@ I am a Computer Science student passionate about building efficient backend infr
 ---
 
 ### 📬 Connect With Me
-
-*   **Portfolio**: [MrMarquito.github.io](https://mrmarquito.github.io)
-*   **Linkedin**: [Marcos Cruz Bazan](https://linkedin.com/in/marcos-antonio-cruz-bazan)
+<a href="https://linkedin.com/in/marcos-antonio-cruz-bazan">
+  <img src="assets/docs/image_6a5cd75d-8219-4705-8a53-e0d076faecb920260922_154151.jpg" alt="LinkedIn QR Code" width="600"/>
+</a>
