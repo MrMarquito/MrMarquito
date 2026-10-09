@@ -10,8 +10,8 @@ I am a Computer Science student passionate about building efficient backend infr
 
 ### 🛠️ Technical Toolbox
 
-*   **Languages**: Python, C++, Dart, SQL, HTML5, CSS3, JavaScript, Java
-*   **Frameworks & Libraries**: Flutter, Socket API
+*   **Languages**: Python, C++, Dart, Java, Swift
+*   **Frameworks & Libraries**: Flutter, Socket API, SwiftUI
 *   **Tools & Paradigms**: Low-level Network Programming, Systems Simulation
 
 ---
